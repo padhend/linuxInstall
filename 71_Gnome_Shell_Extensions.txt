@@ -1,0 +1,18 @@
+## Gnome Shell Extensions
+ArcMenu
+
+
+#####################################################
+extension-list@tu.berry
+gnome-shell-screenshot@ttll.de
+user-theme@gnome-shell-extensions.gcampax.github.com
+dash-to-panel@jderose9.github.com
+caffeine@patapon.info
+trayIconsReloaded@selfmade.pl
+clipboard-indicator@tudmotu.com
+WallpaperSwitcher@Rishu
+Move_Clock@rmy.pobox.com
+arcmenu@arcmenu.com
+background-logo@fedorahosted.org
+appindicatorsupport@rgcjonas.gmail.com
+######################################################
