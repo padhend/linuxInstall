@@ -23,10 +23,6 @@ fi
 ## Install some programs
 sudo apt install -y gnome-tweaks gnome-shell-extension-manager spacefm
 
-## Log into firefox and sync your profile
-padhend@hotmail.com
-VaOq8Nfo0M6l
-
 ## Download resources
 Go to https://www.pling.com/p/1805660
 
